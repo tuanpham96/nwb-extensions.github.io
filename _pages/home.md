@@ -10,6 +10,8 @@ permalink: /
 
 The [Neurodata Extensions Catalog (NDX Catalog)](https://github.com/nwb-extensions) is a community-led catalog of extensions to the [Neurodata Without Borders (NWB)](https://neurodatawithoutborders.github.io/) data standard.
 
+To create an NWB extension, please follow [this tutorial](https://nwb-overview.readthedocs.io/en/latest/extensions_tutorial/extensions_tutorial_home.html). To add an extension to this Catalog, follow the [instructions in the staged-extensions repo](https://github.com/nwb-extensions/staged-extensions).
+
 <form action="{{ site.url }}" method="get">
     Filter: <input type="search" name="q" id="search-input" size="70" autofocus>
     <input type="submit" value="Search" style="display: none;">
